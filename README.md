@@ -1,8 +1,8 @@
-# 🌌 Sistema Astronómico
+BASE DE DATOS ASTRONOMICA
 
-Proyecto desarrollado en Python para la gestión de cuerpos celestes mediante interfaz de consola.
 
-El sistema permite visualizar, buscar y agregar cuerpos celestes almacenados en un archivo Excel, utilizando tablas. Permitiendo mayor facilidad
+
+El codigo permite visualizar, buscar y agregar cuerpos celestes almacenados en un archivo Excel, utilizando tablas. Permitiendo mayor facilidad
 a aquellas personas que buscan organizar datos astronómicos.
 
 ---
@@ -162,7 +162,7 @@ El archivo Excel debe contener columnas como:
 
 ---
 
-## Librerías utilizadas
+## Librerías utilizadas :
 
 ## Pandas
 
