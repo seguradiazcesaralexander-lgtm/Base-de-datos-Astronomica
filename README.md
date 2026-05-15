@@ -154,7 +154,7 @@ cuerpos_celestes.xlsx
 
 ## Formato de datos
 
-El archivo Excel debe contener columnas como, donde nuestros datos estan alineados de acuerdo al punto decimal y en unidades años luz :
+El archivo Excel debe contener columnas como, donde nuestros datos de distancia estan alineados de acuerdo al punto decimal y en unidades años luz :
 
 | nombre | tipo | ubicacion | distancia (ly) | diametro (km) |
 |---|---|---|---|---|
